@@ -1,0 +1,16 @@
+.imgHome{
+    position: absolute;
+    width: 1416px;
+    height: 1416px;
+    left: 569px;
+    top: -123px;
+
+    background: url(.jpg);
+}
+.navbar-default{
+    background: center fixed;
+    height: 76px;
+    left: 32px;
+    right: 32px;
+    top: 0px;
+}
